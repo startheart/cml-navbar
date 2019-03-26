@@ -10,9 +10,9 @@
       "integrity": "sha512-/qMyPikRj/q3C5TYHFCW6GJl13OhBbkd4TkAqTOlc2JiEQsef4N4NFChNnIfFijOEJzMRZAy3y3sf2ej2/diUg==",
       "requires": {
         "chameleon-bridge": "0.1.0",
-        "child_process": "^1.0.2",
-        "fetch-detector": "^1.0.1",
-        "fetch-ie8": "^1.5.0"
+        "child_process": "1.0.2",
+        "fetch-detector": "1.0.1",
+        "fetch-ie8": "1.5.0"
       }
     },
     "chameleon-bridge": {
